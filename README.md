@@ -4,7 +4,7 @@
 
 The [EtsyScraper](https://github.com/rish-hyun/etsy-scraper/blob/main/EtsyScraper.ipynb) includes code to scrape data from _**Etsy shop**_
 
-The code is implemented in Colab.
+I've tested it on Colab.
 <hr>
 
 Enter the shop name in cell no. 3 <br>
